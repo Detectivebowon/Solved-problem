@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #pragma GCC optimize("O3")
 using namespace std;
-const int H = 500009;
+const int H = 1e6;
 int dc[H], r[H];
 int k, m, n;
 int main()
